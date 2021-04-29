@@ -1,0 +1,8 @@
+# IDE files
+.idea/
+.vscode/
+
+# files that may be created when testing locally
+*.txt
+*.jar
+*.yaml
