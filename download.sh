@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 
 ARTIFACT=$1
 OUTPUT=$2

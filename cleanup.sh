@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 
 DIRECTORY=$1
 EXTENSION=$2
