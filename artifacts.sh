@@ -95,5 +95,8 @@ while IFS= read -r line || [[ "$line" ]]; do
 done < $artifacts_delete_txt
 
 echo "Deleting artifacts done."
+echo ""
 
 rm $artifacts_delete_txt
+
+ls -al
